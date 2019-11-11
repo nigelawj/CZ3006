@@ -1,0 +1,25 @@
+{
+	"configurations": [
+		{
+			"type": "java",
+			"name": "CodeLens (Launch) - Rfc865UdpClient",
+			"request": "launch",
+			"mainClass": "app.Rfc865UdpClient",
+			"projectName": "lab2"
+		},
+		{
+			"type": "java",
+			"name": "CodeLens (Launch) - Rfc865UdpServer",
+			"request": "launch",
+			"mainClass": "app.Rfc865UdpServer",
+			"projectName": "lab2"
+		},
+		{
+			"type": "java",
+			"name": "CodeLens (Launch) - App",
+			"request": "launch",
+			"mainClass": "app.App",
+			"projectName": "lab2"
+		}
+	]
+}
